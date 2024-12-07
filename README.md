@@ -6,7 +6,7 @@ Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herv%C3%A9-m-bilo-02baa1331/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herve.mbilo@gmail.com)
 
-## 🥇 Certificates
+## ⭐ Certificates
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/8a4fca9c-9133-4fc9-9b72-ad57f251cdf8)
 
 ## ⚡ Technologies
