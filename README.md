@@ -40,6 +40,6 @@ Feel free to connect with me here:
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=diliwo&count_private=true&show_icons=true&include_all_commits=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diliwo&layout=donut)](https://github.com/diliwo/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=diliwo&count_private=true&show_icons=true&include_all_commits=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diliwo&layout=donut&theme=algolia)](https://github.com/diliwo/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=diliwo.diliwo)
