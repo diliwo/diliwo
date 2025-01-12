@@ -43,3 +43,5 @@ Feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=diliwo&count_private=true&show_icons=true&include_all_commits=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diliwo&layout=donut&theme=algolia)](https://github.com/diliwo/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=diliwo.diliwo)
+
+![Snake animation](https://github.com/diliwo/diliwo/blob/output/github-contribution-grid-snake.svg)
