@@ -1,6 +1,33 @@
 ## Hi there 👋
+### Cloud-Native .NET / Full-Stack Engineer
 
-Hello, I'm Hervé M'Bilo. I'm a full-stack .NET and Angular developer. I love building robust, scalable, and resilient apps using the cloud-native approach. I enjoy spending some of my free time on personal side projects in which I can learn and practice new skills.
+I'm a software engineer based in Brussels, Belgium, specializing in .NET, Angular, and cloud-native application development.
+
+I enjoy solving engineering problems involving application architecture, distributed systems, data isolation, security, and reliable software delivery.
+
+I'm currently developing Zeka, a SaaS platform for social organisations, while exploring how AI coding agents can contribute to software engineering through reproducible verification and human oversight.
+
+### 🚀 What I'm building
+
+#### Zeka — SaaS for social organisations
+
+A .NET and Angular SaaS project designed to support client and case management for social organisations.
+
+My engineering focus includes:
+
+- Multi-tenant architecture and PostgreSQL data isolation.
+- Authorization and security boundaries.
+- Clean Architecture and distributed-system design.
+- Automated testing, CI/CD, and reviewable architectural decisions.
+
+#### AI-assisted software engineering
+
+I'm developing practical workflows for working with AI coding agents while maintaining human accountability.
+
+My approach emphasizes explicit requirements, bounded implementation tasks, independent technical review, reproducible test evidence, and human approval.
+
+I also share reusable engineering skills developed through practical challenges encountered while building Zeka.
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herv%C3%A9-m-bilo-02baa1331/)
