@@ -20,7 +20,7 @@ My engineering focus includes:
 * Clean Architecture and distributed-system design.
 * Automated testing, CI/CD, and reviewable architectural decisions.
 
-AI-assisted software engineering
+#### AI-assisted software engineering
 
 I'm developing practical workflows for working with AI coding agents while maintaining human accountability.
 
