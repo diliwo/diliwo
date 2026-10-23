@@ -7,9 +7,9 @@ I enjoy solving engineering problems involving application architecture, distrib
 
 I'm currently developing Zeka, a SaaS platform for social organisations, while exploring how AI coding agents can contribute to software engineering through reproducible verification, human oversight, and practical workflows.
 
-🚀 What I'm building
+### 🚀 What I'm building
 
-### Zeka — SaaS for social organisations
+#### Zeka — SaaS for social organisations
 
 A .NET and Angular SaaS project designed to help social organisations manage clients and cases.
 
