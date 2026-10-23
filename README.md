@@ -5,28 +5,28 @@ I'm a software engineer based in Brussels, Belgium, specializing in .NET, Angula
 
 I enjoy solving engineering problems involving application architecture, distributed systems, data isolation, security, and reliable software delivery.
 
-I'm currently developing Zeka, a SaaS platform for social organisations, while exploring how AI coding agents can contribute to software engineering through reproducible verification and human oversight.
+I'm currently developing Zeka, a SaaS platform for social organisations, while exploring how AI coding agents can contribute to software engineering through reproducible verification, human oversight, and practical workflows.
 
-### 🚀 What I'm building
+🚀 What I'm building
 
-#### Zeka — SaaS for social organisations
+### Zeka — SaaS for social organisations
 
-A .NET and Angular SaaS project designed to support client and case management for social organisations.
+A .NET and Angular SaaS project designed to help social organisations manage clients and cases.
 
 My engineering focus includes:
 
-- Multi-tenant architecture and PostgreSQL data isolation.
-- Authorization and security boundaries.
-- Clean Architecture and distributed-system design.
-- Automated testing, CI/CD, and reviewable architectural decisions.
+* Multi-tenant architecture and PostgreSQL data isolation.
+* Authorization and security boundaries.
+* Clean Architecture and distributed-system design.
+* Automated testing, CI/CD, and reviewable architectural decisions.
 
-#### AI-assisted software engineering
+AI-assisted software engineering
 
 I'm developing practical workflows for working with AI coding agents while maintaining human accountability.
 
 My approach emphasizes explicit requirements, bounded implementation tasks, independent technical review, reproducible test evidence, and human approval.
 
-I also share reusable engineering skills developed through practical challenges encountered while building Zeka.
+I also share reusable engineering skills developed through practical challenges encountered while building Zeka and working with AI coding agents.
 
 Feel free to connect with me here:
 
